@@ -1,5 +1,5 @@
 
-Machine Learning Regression mofel to predict the price of Cars
+Machine Learning Regression model to predict the price of Cars
 <h1 align="center"Cars prices prediction </h1>
 
 
