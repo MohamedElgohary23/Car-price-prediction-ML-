@@ -1,9 +1,8 @@
 
-Machine Learning project to detect malignant and benign people
-
+Machine Learning Regression mofel to predict the price of Cars
 <h1 align="center"Breast-Cancer-Classification </h1>
 
-<div align= "center"><img src="https://github.com/MohamedElgohary23/Breast-Cancer-Classification/assets/141565314/949f154f-3f0a-49c9-9dd3-cb938747552b"/>
+<div align= "center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caranddriver.com%2Fshopping-advice%2Fg26100588%2Fcar-types%2F&psig=AOvVaw00ifn-NzSebM3c5Eqc_3Ot&ust=1708969606321000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJib94SGx4QDFQAAAAAdAAAAABAE"/>
    <p>Predict whether the cancer is benign or malignant.</p>
 </div>
 
@@ -12,7 +11,6 @@ Machine Learning project to detect malignant and benign people
 Data set is downloaded from Kaggle : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data
 | Column name              | Description                                                |
 | :------------------------| :----------------------------------------------------------
-| ID number                | Case number                                                |
 | radius                   | mean of distances from center to points on the perimeter   |
 | texture                  | standard deviation of gray-scale values                    |
 | perimeter                | perimeter                                                  |
