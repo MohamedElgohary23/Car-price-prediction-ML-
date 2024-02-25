@@ -1,9 +1,9 @@
 
 Machine Learning Regression mofel to predict the price of Cars
-<h1 align="center"Breast-Cancer-Classification </h1>
+<h1 align="center"Cars prices prediction </h1>
 
-<div align= "center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caranddriver.com%2Fshopping-advice%2Fg26100588%2Fcar-types%2F&psig=AOvVaw00ifn-NzSebM3c5Eqc_3Ot&ust=1708969606321000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJib94SGx4QDFQAAAAAdAAAAABAE"/>
-   <p>Predict whether the cancer is benign or malignant.</p>
+<div align= "center"><img src="https://www.google.com/search?sca_esv=a691801792404b30&rlz=1C1FKPE_enEG1091EG1091&sxsrf=ACQVn09o5qhjkMP_YSCHuQxZAc7n-YFfLw:1708883200885&q=car&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjX2pqBhseEAxXnVkEAHVErAtYQ0pQJegQIDRAB&biw=1920&bih=953&dpr=1#imgrc=do3Qxz7fTG3V-M"/>
+   
 </div>
 
 
